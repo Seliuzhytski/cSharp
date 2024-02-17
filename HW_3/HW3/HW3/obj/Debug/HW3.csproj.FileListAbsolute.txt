@@ -1,0 +1,7 @@
+E:\C#\Lesson_3\HW\HW3\HW3\bin\Debug\HW3.exe.config
+E:\C#\Lesson_3\HW\HW3\HW3\bin\Debug\HW3.exe
+E:\C#\Lesson_3\HW\HW3\HW3\bin\Debug\HW3.pdb
+E:\C#\Lesson_3\HW\HW3\HW3\obj\Debug\HW3.csproj.AssemblyReference.cache
+E:\C#\Lesson_3\HW\HW3\HW3\obj\Debug\HW3.csproj.CoreCompileInputs.cache
+E:\C#\Lesson_3\HW\HW3\HW3\obj\Debug\HW3.exe
+E:\C#\Lesson_3\HW\HW3\HW3\obj\Debug\HW3.pdb
