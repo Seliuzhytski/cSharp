@@ -1,0 +1,7 @@
+E:\C#\Projects\MyFirstSolution\MyFirstSolution\bin\Debug\MyFirstSolution.exe.config
+E:\C#\Projects\MyFirstSolution\MyFirstSolution\bin\Debug\MyFirstSolution.exe
+E:\C#\Projects\MyFirstSolution\MyFirstSolution\bin\Debug\MyFirstSolution.pdb
+E:\C#\Projects\MyFirstSolution\MyFirstSolution\obj\Debug\MyFirstConsole.csproj.AssemblyReference.cache
+E:\C#\Projects\MyFirstSolution\MyFirstSolution\obj\Debug\MyFirstConsole.csproj.CoreCompileInputs.cache
+E:\C#\Projects\MyFirstSolution\MyFirstSolution\obj\Debug\MyFirstSolution.exe
+E:\C#\Projects\MyFirstSolution\MyFirstSolution\obj\Debug\MyFirstSolution.pdb

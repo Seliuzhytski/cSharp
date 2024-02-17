@@ -1,0 +1,7 @@
+E:\C#\Projects\MyFirstSolution\MySecondConsole\obj\Debug\MySecondConsole.csproj.AssemblyReference.cache
+E:\C#\Projects\MyFirstSolution\MySecondConsole\obj\Debug\MySecondConsole.csproj.CoreCompileInputs.cache
+E:\C#\Projects\MyFirstSolution\MySecondConsole\bin\Debug\MySecondConsole.exe.config
+E:\C#\Projects\MyFirstSolution\MySecondConsole\bin\Debug\MySecondConsole.exe
+E:\C#\Projects\MyFirstSolution\MySecondConsole\bin\Debug\MySecondConsole.pdb
+E:\C#\Projects\MyFirstSolution\MySecondConsole\obj\Debug\MySecondConsole.exe
+E:\C#\Projects\MyFirstSolution\MySecondConsole\obj\Debug\MySecondConsole.pdb
