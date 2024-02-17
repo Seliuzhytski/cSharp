@@ -1,0 +1,15 @@
+E:\C#\Git\cSharp_HW\HW_4\HW_4\bin\Debug\net8.0\HW_4.exe
+E:\C#\Git\cSharp_HW\HW_4\HW_4\bin\Debug\net8.0\HW_4.deps.json
+E:\C#\Git\cSharp_HW\HW_4\HW_4\bin\Debug\net8.0\HW_4.runtimeconfig.json
+E:\C#\Git\cSharp_HW\HW_4\HW_4\bin\Debug\net8.0\HW_4.dll
+E:\C#\Git\cSharp_HW\HW_4\HW_4\bin\Debug\net8.0\HW_4.pdb
+E:\C#\Git\cSharp_HW\HW_4\HW_4\obj\Debug\net8.0\HW_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Git\cSharp_HW\HW_4\HW_4\obj\Debug\net8.0\HW_4.AssemblyInfoInputs.cache
+E:\C#\Git\cSharp_HW\HW_4\HW_4\obj\Debug\net8.0\HW_4.AssemblyInfo.cs
+E:\C#\Git\cSharp_HW\HW_4\HW_4\obj\Debug\net8.0\HW_4.csproj.CoreCompileInputs.cache
+E:\C#\Git\cSharp_HW\HW_4\HW_4\obj\Debug\net8.0\HW_4.sourcelink.json
+E:\C#\Git\cSharp_HW\HW_4\HW_4\obj\Debug\net8.0\HW_4.dll
+E:\C#\Git\cSharp_HW\HW_4\HW_4\obj\Debug\net8.0\refint\HW_4.dll
+E:\C#\Git\cSharp_HW\HW_4\HW_4\obj\Debug\net8.0\HW_4.pdb
+E:\C#\Git\cSharp_HW\HW_4\HW_4\obj\Debug\net8.0\HW_4.genruntimeconfig.cache
+E:\C#\Git\cSharp_HW\HW_4\HW_4\obj\Debug\net8.0\ref\HW_4.dll
