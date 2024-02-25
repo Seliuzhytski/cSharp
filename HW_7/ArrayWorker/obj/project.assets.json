@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\Git\\cSharp_HW\\HW_7\\HW_7\\ArrayWorker\\ArrayWorkerLib.csproj",
+      "projectUniqueName": "E:\\C#\\Git\\cSharp_HW\\HW_7\\ArrayWorker\\ArrayWorkerLib.csproj",
       "projectName": "ArrayWorkerLib",
-      "projectPath": "E:\\C#\\Git\\cSharp_HW\\HW_7\\HW_7\\ArrayWorker\\ArrayWorkerLib.csproj",
+      "projectPath": "E:\\C#\\Git\\cSharp_HW\\HW_7\\ArrayWorker\\ArrayWorkerLib.csproj",
       "packagesPath": "C:\\Users\\Alex_Selia\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\Git\\cSharp_HW\\HW_7\\HW_7\\ArrayWorker\\obj\\",
+      "outputPath": "E:\\C#\\Git\\cSharp_HW\\HW_7\\ArrayWorker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex_Selia\\AppData\\Roaming\\NuGet\\NuGet.Config",

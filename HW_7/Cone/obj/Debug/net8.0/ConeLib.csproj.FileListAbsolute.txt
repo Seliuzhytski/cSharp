@@ -10,3 +10,15 @@ E:\C#\Git\cSharp_HW\HW_7\HW_7\Cone\obj\Debug\net8.0\ConeLib.dll
 E:\C#\Git\cSharp_HW\HW_7\HW_7\Cone\obj\Debug\net8.0\refint\ConeLib.dll
 E:\C#\Git\cSharp_HW\HW_7\HW_7\Cone\obj\Debug\net8.0\ConeLib.pdb
 E:\C#\Git\cSharp_HW\HW_7\HW_7\Cone\obj\Debug\net8.0\ref\ConeLib.dll
+E:\C#\Git\cSharp_HW\HW_7\Cone\bin\Debug\net8.0\ConeLib.deps.json
+E:\C#\Git\cSharp_HW\HW_7\Cone\bin\Debug\net8.0\ConeLib.dll
+E:\C#\Git\cSharp_HW\HW_7\Cone\bin\Debug\net8.0\ConeLib.pdb
+E:\C#\Git\cSharp_HW\HW_7\Cone\obj\Debug\net8.0\ConeLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Git\cSharp_HW\HW_7\Cone\obj\Debug\net8.0\ConeLib.AssemblyInfoInputs.cache
+E:\C#\Git\cSharp_HW\HW_7\Cone\obj\Debug\net8.0\ConeLib.AssemblyInfo.cs
+E:\C#\Git\cSharp_HW\HW_7\Cone\obj\Debug\net8.0\ConeLib.csproj.CoreCompileInputs.cache
+E:\C#\Git\cSharp_HW\HW_7\Cone\obj\Debug\net8.0\ConeLib.sourcelink.json
+E:\C#\Git\cSharp_HW\HW_7\Cone\obj\Debug\net8.0\ConeLib.dll
+E:\C#\Git\cSharp_HW\HW_7\Cone\obj\Debug\net8.0\refint\ConeLib.dll
+E:\C#\Git\cSharp_HW\HW_7\Cone\obj\Debug\net8.0\ConeLib.pdb
+E:\C#\Git\cSharp_HW\HW_7\Cone\obj\Debug\net8.0\ref\ConeLib.dll

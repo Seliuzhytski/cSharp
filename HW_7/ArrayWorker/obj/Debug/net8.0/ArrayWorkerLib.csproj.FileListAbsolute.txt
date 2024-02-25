@@ -10,3 +10,15 @@ E:\C#\Git\cSharp_HW\HW_7\HW_7\ArrayWorker\obj\Debug\net8.0\ArrayWorkerLib.dll
 E:\C#\Git\cSharp_HW\HW_7\HW_7\ArrayWorker\obj\Debug\net8.0\refint\ArrayWorkerLib.dll
 E:\C#\Git\cSharp_HW\HW_7\HW_7\ArrayWorker\obj\Debug\net8.0\ArrayWorkerLib.pdb
 E:\C#\Git\cSharp_HW\HW_7\HW_7\ArrayWorker\obj\Debug\net8.0\ref\ArrayWorkerLib.dll
+E:\C#\Git\cSharp_HW\HW_7\ArrayWorker\bin\Debug\net8.0\ArrayWorkerLib.deps.json
+E:\C#\Git\cSharp_HW\HW_7\ArrayWorker\bin\Debug\net8.0\ArrayWorkerLib.dll
+E:\C#\Git\cSharp_HW\HW_7\ArrayWorker\bin\Debug\net8.0\ArrayWorkerLib.pdb
+E:\C#\Git\cSharp_HW\HW_7\ArrayWorker\obj\Debug\net8.0\ArrayWorkerLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Git\cSharp_HW\HW_7\ArrayWorker\obj\Debug\net8.0\ArrayWorkerLib.AssemblyInfoInputs.cache
+E:\C#\Git\cSharp_HW\HW_7\ArrayWorker\obj\Debug\net8.0\ArrayWorkerLib.AssemblyInfo.cs
+E:\C#\Git\cSharp_HW\HW_7\ArrayWorker\obj\Debug\net8.0\ArrayWorkerLib.csproj.CoreCompileInputs.cache
+E:\C#\Git\cSharp_HW\HW_7\ArrayWorker\obj\Debug\net8.0\ArrayWorkerLib.sourcelink.json
+E:\C#\Git\cSharp_HW\HW_7\ArrayWorker\obj\Debug\net8.0\ArrayWorkerLib.dll
+E:\C#\Git\cSharp_HW\HW_7\ArrayWorker\obj\Debug\net8.0\refint\ArrayWorkerLib.dll
+E:\C#\Git\cSharp_HW\HW_7\ArrayWorker\obj\Debug\net8.0\ArrayWorkerLib.pdb
+E:\C#\Git\cSharp_HW\HW_7\ArrayWorker\obj\Debug\net8.0\ref\ArrayWorkerLib.dll
