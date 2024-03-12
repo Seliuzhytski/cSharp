@@ -1,0 +1,15 @@
+E:\C#\Git\cSharp_HW\HW_9\HW_9\bin\Release\net8.0\HW_9.exe
+E:\C#\Git\cSharp_HW\HW_9\HW_9\bin\Release\net8.0\HW_9.deps.json
+E:\C#\Git\cSharp_HW\HW_9\HW_9\bin\Release\net8.0\HW_9.runtimeconfig.json
+E:\C#\Git\cSharp_HW\HW_9\HW_9\bin\Release\net8.0\HW_9.dll
+E:\C#\Git\cSharp_HW\HW_9\HW_9\bin\Release\net8.0\HW_9.pdb
+E:\C#\Git\cSharp_HW\HW_9\HW_9\obj\Release\net8.0\HW_9.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Git\cSharp_HW\HW_9\HW_9\obj\Release\net8.0\HW_9.AssemblyInfoInputs.cache
+E:\C#\Git\cSharp_HW\HW_9\HW_9\obj\Release\net8.0\HW_9.AssemblyInfo.cs
+E:\C#\Git\cSharp_HW\HW_9\HW_9\obj\Release\net8.0\HW_9.csproj.CoreCompileInputs.cache
+E:\C#\Git\cSharp_HW\HW_9\HW_9\obj\Release\net8.0\HW_9.sourcelink.json
+E:\C#\Git\cSharp_HW\HW_9\HW_9\obj\Release\net8.0\HW_9.dll
+E:\C#\Git\cSharp_HW\HW_9\HW_9\obj\Release\net8.0\refint\HW_9.dll
+E:\C#\Git\cSharp_HW\HW_9\HW_9\obj\Release\net8.0\HW_9.pdb
+E:\C#\Git\cSharp_HW\HW_9\HW_9\obj\Release\net8.0\HW_9.genruntimeconfig.cache
+E:\C#\Git\cSharp_HW\HW_9\HW_9\obj\Release\net8.0\ref\HW_9.dll
