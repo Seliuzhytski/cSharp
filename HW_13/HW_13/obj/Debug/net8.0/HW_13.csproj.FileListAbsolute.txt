@@ -1,0 +1,15 @@
+E:\C#\Git\cSharp_HW\HW_13\HW_13\obj\Debug\net8.0\HW_13.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Git\cSharp_HW\HW_13\HW_13\obj\Debug\net8.0\HW_13.AssemblyInfoInputs.cache
+E:\C#\Git\cSharp_HW\HW_13\HW_13\obj\Debug\net8.0\HW_13.AssemblyInfo.cs
+E:\C#\Git\cSharp_HW\HW_13\HW_13\obj\Debug\net8.0\HW_13.csproj.CoreCompileInputs.cache
+E:\C#\Git\cSharp_HW\HW_13\HW_13\obj\Debug\net8.0\HW_13.sourcelink.json
+E:\C#\Git\cSharp_HW\HW_13\HW_13\bin\Debug\net8.0\HW_13.exe
+E:\C#\Git\cSharp_HW\HW_13\HW_13\bin\Debug\net8.0\HW_13.deps.json
+E:\C#\Git\cSharp_HW\HW_13\HW_13\bin\Debug\net8.0\HW_13.runtimeconfig.json
+E:\C#\Git\cSharp_HW\HW_13\HW_13\bin\Debug\net8.0\HW_13.dll
+E:\C#\Git\cSharp_HW\HW_13\HW_13\bin\Debug\net8.0\HW_13.pdb
+E:\C#\Git\cSharp_HW\HW_13\HW_13\obj\Debug\net8.0\HW_13.dll
+E:\C#\Git\cSharp_HW\HW_13\HW_13\obj\Debug\net8.0\refint\HW_13.dll
+E:\C#\Git\cSharp_HW\HW_13\HW_13\obj\Debug\net8.0\HW_13.pdb
+E:\C#\Git\cSharp_HW\HW_13\HW_13\obj\Debug\net8.0\HW_13.genruntimeconfig.cache
+E:\C#\Git\cSharp_HW\HW_13\HW_13\obj\Debug\net8.0\ref\HW_13.dll
