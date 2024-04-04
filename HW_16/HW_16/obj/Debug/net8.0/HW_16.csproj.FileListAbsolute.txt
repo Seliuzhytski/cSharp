@@ -1,0 +1,15 @@
+E:\C#\Git\cSharp_HW\HW_16\HW_16\bin\Debug\net8.0\HW_16.exe
+E:\C#\Git\cSharp_HW\HW_16\HW_16\bin\Debug\net8.0\HW_16.deps.json
+E:\C#\Git\cSharp_HW\HW_16\HW_16\bin\Debug\net8.0\HW_16.runtimeconfig.json
+E:\C#\Git\cSharp_HW\HW_16\HW_16\bin\Debug\net8.0\HW_16.dll
+E:\C#\Git\cSharp_HW\HW_16\HW_16\bin\Debug\net8.0\HW_16.pdb
+E:\C#\Git\cSharp_HW\HW_16\HW_16\obj\Debug\net8.0\HW_16.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Git\cSharp_HW\HW_16\HW_16\obj\Debug\net8.0\HW_16.AssemblyInfoInputs.cache
+E:\C#\Git\cSharp_HW\HW_16\HW_16\obj\Debug\net8.0\HW_16.AssemblyInfo.cs
+E:\C#\Git\cSharp_HW\HW_16\HW_16\obj\Debug\net8.0\HW_16.csproj.CoreCompileInputs.cache
+E:\C#\Git\cSharp_HW\HW_16\HW_16\obj\Debug\net8.0\HW_16.sourcelink.json
+E:\C#\Git\cSharp_HW\HW_16\HW_16\obj\Debug\net8.0\HW_16.dll
+E:\C#\Git\cSharp_HW\HW_16\HW_16\obj\Debug\net8.0\refint\HW_16.dll
+E:\C#\Git\cSharp_HW\HW_16\HW_16\obj\Debug\net8.0\HW_16.pdb
+E:\C#\Git\cSharp_HW\HW_16\HW_16\obj\Debug\net8.0\HW_16.genruntimeconfig.cache
+E:\C#\Git\cSharp_HW\HW_16\HW_16\obj\Debug\net8.0\ref\HW_16.dll
