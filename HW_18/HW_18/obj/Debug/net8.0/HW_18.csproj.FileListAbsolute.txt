@@ -1,0 +1,15 @@
+E:\C#\Git\cSharp_HW\HW_18\HW_18\bin\Debug\net8.0\HW_18.exe
+E:\C#\Git\cSharp_HW\HW_18\HW_18\bin\Debug\net8.0\HW_18.deps.json
+E:\C#\Git\cSharp_HW\HW_18\HW_18\bin\Debug\net8.0\HW_18.runtimeconfig.json
+E:\C#\Git\cSharp_HW\HW_18\HW_18\bin\Debug\net8.0\HW_18.dll
+E:\C#\Git\cSharp_HW\HW_18\HW_18\bin\Debug\net8.0\HW_18.pdb
+E:\C#\Git\cSharp_HW\HW_18\HW_18\obj\Debug\net8.0\HW_18.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Git\cSharp_HW\HW_18\HW_18\obj\Debug\net8.0\HW_18.AssemblyInfoInputs.cache
+E:\C#\Git\cSharp_HW\HW_18\HW_18\obj\Debug\net8.0\HW_18.AssemblyInfo.cs
+E:\C#\Git\cSharp_HW\HW_18\HW_18\obj\Debug\net8.0\HW_18.csproj.CoreCompileInputs.cache
+E:\C#\Git\cSharp_HW\HW_18\HW_18\obj\Debug\net8.0\HW_18.sourcelink.json
+E:\C#\Git\cSharp_HW\HW_18\HW_18\obj\Debug\net8.0\HW_18.dll
+E:\C#\Git\cSharp_HW\HW_18\HW_18\obj\Debug\net8.0\refint\HW_18.dll
+E:\C#\Git\cSharp_HW\HW_18\HW_18\obj\Debug\net8.0\HW_18.pdb
+E:\C#\Git\cSharp_HW\HW_18\HW_18\obj\Debug\net8.0\HW_18.genruntimeconfig.cache
+E:\C#\Git\cSharp_HW\HW_18\HW_18\obj\Debug\net8.0\ref\HW_18.dll
