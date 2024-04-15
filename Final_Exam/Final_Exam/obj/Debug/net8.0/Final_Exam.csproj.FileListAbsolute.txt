@@ -1,0 +1,15 @@
+E:\C#\Git\cSharp_HW\Final_Exam\Final_Exam\bin\Debug\net8.0\Final_Exam.exe
+E:\C#\Git\cSharp_HW\Final_Exam\Final_Exam\bin\Debug\net8.0\Final_Exam.deps.json
+E:\C#\Git\cSharp_HW\Final_Exam\Final_Exam\bin\Debug\net8.0\Final_Exam.runtimeconfig.json
+E:\C#\Git\cSharp_HW\Final_Exam\Final_Exam\bin\Debug\net8.0\Final_Exam.dll
+E:\C#\Git\cSharp_HW\Final_Exam\Final_Exam\bin\Debug\net8.0\Final_Exam.pdb
+E:\C#\Git\cSharp_HW\Final_Exam\Final_Exam\obj\Debug\net8.0\Final_Exam.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Git\cSharp_HW\Final_Exam\Final_Exam\obj\Debug\net8.0\Final_Exam.AssemblyInfoInputs.cache
+E:\C#\Git\cSharp_HW\Final_Exam\Final_Exam\obj\Debug\net8.0\Final_Exam.AssemblyInfo.cs
+E:\C#\Git\cSharp_HW\Final_Exam\Final_Exam\obj\Debug\net8.0\Final_Exam.csproj.CoreCompileInputs.cache
+E:\C#\Git\cSharp_HW\Final_Exam\Final_Exam\obj\Debug\net8.0\Final_Exam.sourcelink.json
+E:\C#\Git\cSharp_HW\Final_Exam\Final_Exam\obj\Debug\net8.0\Final_Exam.dll
+E:\C#\Git\cSharp_HW\Final_Exam\Final_Exam\obj\Debug\net8.0\refint\Final_Exam.dll
+E:\C#\Git\cSharp_HW\Final_Exam\Final_Exam\obj\Debug\net8.0\Final_Exam.pdb
+E:\C#\Git\cSharp_HW\Final_Exam\Final_Exam\obj\Debug\net8.0\Final_Exam.genruntimeconfig.cache
+E:\C#\Git\cSharp_HW\Final_Exam\Final_Exam\obj\Debug\net8.0\ref\Final_Exam.dll
